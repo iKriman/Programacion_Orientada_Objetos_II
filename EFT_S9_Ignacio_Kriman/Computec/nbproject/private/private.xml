@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/service/DescuentoBase.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/controller/EquipoController.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/modelo/Equipo.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/service/DescuentoPorcentaje.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/dao/EquipoDAO.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/EliminarCliente.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/controller/ClienteController.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/service/VentaService.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/computec/app.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/CrearCliente.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/Command.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/modelo/Laptop.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/service/DescuentoDecorator.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/CrearEquipo.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/ListarClientes.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/RegistrarVenta.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/EliminarVenta.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/CommandInvoker.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/EliminarEquipo.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/ListarVentas.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/service/Descuento.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/dao/VentaDAO.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/view/JFrameComputec.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/modelo/Desktop.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/AgregarVenta.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/modelo/Venta.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/database/DatabaseConnection.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/controller/VentaController.java</file>
+            <file>file:/C:/Users/ignac/Desktop/DUOC/01%20-%20RAMOS/03%20-%20Programacion%20Orientada%20a%20Objetos%20II/s9%20EFT/EFT/Computec/src/command/ListarEquipos.java</file>
+        </group>
+    </open-files>
+</project-private>
